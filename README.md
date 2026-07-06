@@ -85,8 +85,4 @@ I'm a **2nd-year Mechatronics Engineering student** at École Nationale d'Ingén
 
 ---
 
-<div align="center">
-
-*Open to PFE internship opportunities in France, Switzerland, Germany & Canada (2026–2027)*
-
 </div>
