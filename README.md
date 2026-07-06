@@ -67,17 +67,6 @@ I'm a **2nd-year Mechatronics Engineering student** at École Nationale d'Ingén
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Mouhamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouhamedbouzidi4&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouhamedbouzidi4&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## Experience
 
 - **Summer Intern** — Tunisair Airlines, Maintenance Department (July 2025)
