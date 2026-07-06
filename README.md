@@ -57,10 +57,10 @@ I'm a **2nd-year Mechatronics Engineering student** at École Nationale d'Ingén
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🧠 UAV Fault Detection — PFA](https://github.com/mouhamedbouzidi4/pfa-uav-fault-detection) | **Final-year project** — LSTM Autoencoder for real-time UAV motor blade anomaly detection. Trained on IMU vibration data, validated on PX4 SITL Gazebo simulation. >95% detection rate. | TensorFlow, Keras, LSTM, PX4, MAVSDK, Python |
+| [🧠 UAV Fault Detection — PFA](https://github.com/mouhamedbouzidi4/uav-fault-detection) | **Final-year project** — LSTM Autoencoder for real-time UAV motor blade anomaly detection. Trained on IMU vibration data, validated on PX4 SITL Gazebo simulation. >95% detection rate. | TensorFlow, Keras, LSTM, PX4, MAVSDK, Python |
 | [🚁 DELORA](https://github.com/mouhamedbouzidi4/DELORA) | Multi-robot delivery system: ground robot + VTOL drone with autonomous LIDAR/SLAM navigation and decentralized task allocation (CBBA + Federated Learning) | ROS 2, Gazebo, SLAM, LIDAR, Python |
 | [🤖 RERO](https://github.com/mouhamedbouzidi4/RERO) | Autonomous waste-sorting robot with computer vision classification and ROS-based navigation | ROS, LIDAR, SLAM, OpenCV |
-| [💧 iDrink](https://github.com/mouhamedbouzidi4/iDrink) | IoT smart water quality monitoring system with real-time pH, turbidity, and TDS sensing | ESP32, MQTT, IoT, Sensors |
+| [💧 iDrink](https://github.com/mouhamedbouzidi4/idrink) | IoT smart water quality monitoring system with real-time pH, turbidity, and TDS sensing | ESP32, MQTT, IoT, Sensors |
 | [🚑 MediDrone](https://github.com/mouhamedbouzidi4/MediDrone) | Medical drone companion Flutter app for autonomous medical delivery missions | Flutter, Dart, Drone SDK |
 | [♻️ H2CYCLE](https://github.com/mouhamedbouzidi4/H2CYCLE) | Hydrogen-powered eco-vehicle with AI-based plastic classification model (EfficientNet) | PyTorch, SolidWorks, EfficientNet |
 | [🔥 Fire Fighter Robot](https://github.com/mouhamedbouzidi4/fire-fighter-robot) | Autonomous fire detection and suppression robot | Arduino, Sensors, Robotics |
@@ -84,5 +84,9 @@ I'm a **2nd-year Mechatronics Engineering student** at École Nationale d'Ingén
 - **VP, IEEE Robotics & Automation Society** — ENICarthage Chapter (2024–2025)
 
 ---
+
+<div align="center">
+
+*Open to PFE internship opportunities in France, Switzerland, Germany & Canada (2026–2027)*
 
 </div>
