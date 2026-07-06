@@ -65,7 +65,7 @@ I'm a **2nd-year Mechatronics Engineering student** at École Nationale d'Ingén
 | [♻️ H2CYCLE](https://github.com/mouhamedbouzidi4/H2CYCLE) | Hydrogen-powered eco-vehicle with AI-based plastic classification model (EfficientNet) | PyTorch, SolidWorks, EfficientNet |
 | [🔥 Fire Fighter Robot](https://github.com/mouhamedbouzidi4/fire-fighter-robot) | Autonomous fire detection and suppression robot | Arduino, Sensors, Robotics |
 
-
+> Replace `mouhamedbouzidi4` with your actual GitHub username
 
 ---
 
